@@ -1,7 +1,7 @@
-// tests/navbar.spec.js
+// // tests/navbar.spec.js
 
 import { test, expect } from '@playwright/test';
-import { NavbarPage } from '../POM/navbar';
+import { NavbarPage } from '../pom/navbar';
 
 test.describe('Module 3 - Navigation Bar', () => {
 
