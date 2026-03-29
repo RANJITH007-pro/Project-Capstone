@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { AuthPage } from '../POM/authPage';
+import { AuthPage } from '../pom/authPage';
 
 test.describe('Login Module - Test Cases', () => {
 
